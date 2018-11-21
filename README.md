@@ -14,4 +14,4 @@ Type your nickname and talk :blush:
 
 
 
-**Quit typing Ctrl + C**
+**Quit typing <kbd>Ctrl</kbd> + <kbd>C</kbd>**
